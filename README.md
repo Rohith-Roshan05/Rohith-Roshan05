@@ -1,4 +1,4 @@
-![MasterHead](https://images8.alphacoders.com/115/thumb-1920-1156488.png)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Rohith</h1>
 <h3 align="center">A passionate Datascientist from India</h3>
 <img align="right" alt="coding" width="300" src="https://img.freepik.com/free-vector/cartoon-gamer-room-illustration_23-2148923149.jpg?t=st=1735047591~exp=1735051191~hmac=dcea1bbc091fd14ba07cbb29def7b04a8d0e6ee6dbcbfec941e89634f3bf2a5e&w=996">
